@@ -11,7 +11,7 @@ import phulka from './phulka.jpg';
 import ragi from './ragi idli dosa.jpg'
 import noodles from './rice noodles.jpg'
 
-export default {
+const images = {
     alooparathas,
     appam,
     bhelpuri,
@@ -25,3 +25,5 @@ export default {
     ragi,
     noodles
 }
+
+export default images;
