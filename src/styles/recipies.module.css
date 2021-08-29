@@ -1,0 +1,13 @@
+.Item{
+    display: inline-block;
+    padding-left: 10%;
+    padding-right: 8%;
+}
+
+.Inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+    cursor: pointer;
+}

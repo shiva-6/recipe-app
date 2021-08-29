@@ -1,0 +1,21 @@
+.MainDiv{
+    padding: 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(12, 162, 221);
+    border-radius: 2px;
+}
+
+.TitleDiv{
+    padding: 12px;
+    background-color: #bfdce7;
+    color: #125570;
+}
+
+.Body{
+    padding: 12px;
+    min-height: 30px;
+    border-top-color: rgb(12, 162, 221);
+    border-top-style: solid;
+    border-top-width: 1px;
+}
