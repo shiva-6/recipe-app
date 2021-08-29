@@ -1,3 +1,7 @@
+.App {
+    font-family: sans-serif;
+}
+
 .App-header {
     background-color: hsl(225, 3%, 76%);
     padding: 2%;

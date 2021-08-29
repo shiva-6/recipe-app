@@ -5,12 +5,12 @@ import Title from './components/Title';
 
 function App() {
     return (
-        <div className="container-fluid" >
+        <div className="container-fluid App" >
             <div className="row App-header" >
                 <Title />
             </div>
             <Content data={data} />
-        </div >
+        </div>
     );
 }
 
